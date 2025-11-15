@@ -1,0 +1,6 @@
+CREATE TABLE Aluno(
+Id INT,
+Nome VARCHAR(255),
+Email VARCHAR(255),
+Idade INT,
+)
